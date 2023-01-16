@@ -16,3 +16,16 @@ header {
     background-image: url(../img/pattern.png);
     background-size: 20%;
 }
+
+.titolo {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.sottotitolo {
+    color: gray;
+}
+
+#booleaner {
+    color: rgb(0, 140, 255);
+}
