@@ -39,6 +39,11 @@
      padding: 20px;;
  }
  
+ table {
+    border-spacing: 0;
+}
+
+
  th {
      width: 500px;
      height: 10px;
